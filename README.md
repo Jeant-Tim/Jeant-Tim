@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, je suis <strong>Jean Timothé Goueu</strong></h1>
 
 <p align="center">
-  🎯 <strong>Ingénieur en Géomatique</strong> | 🌍 <strong>Développeur WebSIG</strong> | ⚙️ <strong>Analiste SIGe</strong>
+  🎯 <strong>Ingénieur en Géomatique</strong> | 🌍 <strong>Développeur WebSIG</strong> | ⚙️ <strong>Analiste SIG</strong>
 </p>
 
 ---
