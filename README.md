@@ -33,7 +33,7 @@ J’aime transformer les données géographiques en **applications interactives 
 ### 🚀 Projets marquants
 
 #### 🌍 [Géoportail Jacqueville](https://geoportail-jacqueville-ird.opendata.arcgis.com)
-Portail web interactif pour la visualisation et l’analyse des données territoriales — plus de **3000 utilisateurs actifs**.
+Portail web interactif pour la visualisation et l’analyse des données territoriales de Jacqueville**.
 
 🧩 *ArcGIS Online · Experience Builder · JavaScript*
 
