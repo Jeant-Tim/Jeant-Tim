@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, je suis <strong>Jean Timothé Goueu</strong></h1>
 
 <p align="center">
-  🎯 <strong>Ingénieur en Géomatique</strong> | 🌍 <strong>Développeur WebSIG</strong> | ⚙️ <strong>Automatisation & Analyse Spatiale</strong>
+  🎯 <strong>Ingénieur en Géomatique</strong> | 🌍 <strong>Développeur WebSIG</strong> | ⚙️ <strong>Analiste SIGe</strong>
 </p>
 
 ---
@@ -99,9 +99,9 @@ Plateforme web interactive de visualisation et d’analyse des cartes du projet 
 
 ### 📬 Me contacter
 
-📧 **goueujeantimothe@gmail.com**  
+📧 **goueujean@gmail.com**  
 📍 **Abidjan, Côte d’Ivoire**  
-💼 [**LinkedIn**](https://www.linkedin.com) *(à compléter)*  
+💼 [**LinkedIn**]([https://www.linkedin.com](https://www.linkedin.com/in/jean-timoth%C3%A9-goueu-508575144/))  
 🧭 [**GitHub**](https://github.com/Jeant-Tim)
 
 ---
