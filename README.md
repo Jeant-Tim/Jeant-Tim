@@ -101,7 +101,7 @@ Plateforme web interactive de visualisation et d’analyse des cartes du projet 
 
 📧 **goueujean@gmail.com**  
 📍 **Abidjan, Côte d’Ivoire**  
-💼 [**LinkedIn**] [https://www.linkedin.com](https://www.linkedin.com/in/jean-timoth%C3%A9-goueu-508575144/)
+💼 [**LinkedIn**] [https://www.linkedin.com](https://www.linkedin.com/in/jean-timoth%C3%A9-goueu-508575144/)  
 🧭 [**GitHub**](https://github.com/Jeant-Tim)
 
 ---
@@ -125,4 +125,4 @@ Plateforme web interactive de visualisation et d’analyse des cartes du projet 
 
 ---
 
-<p align="center">© 2025 - <strong>Jean Timothé Goueu</strong> 🌍 Ingénieur Géomaticien & Développeur SIG</p>
+<p align="center">© 2025 - <strong>Jean Timothé Goueu</strong> Ingénieur Géomaticien & Développeur SIG & Analiste SIG</p>
